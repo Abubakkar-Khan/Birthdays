@@ -1,4 +1,4 @@
-# Birthdays App 🎂  
+# Birthdays Web-App 🎂  
 
 A simple Flask web app to manage and store birthdays. Users can add, view, and delete birthday records.
 
