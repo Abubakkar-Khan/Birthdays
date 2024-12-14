@@ -9,7 +9,7 @@ A simple Flask web app to manage and store birthdays. Users can add, view, and d
 
 ## Tech Stack  
 - **Backend**: Flask (Python)  
-- **Frontend**: HTML, CSS (Bootstrap optional)  
+- **Frontend**: HTML, CSS (Bootstrap)  
 - **Database**: SQLite  
 
 ## Installation  
